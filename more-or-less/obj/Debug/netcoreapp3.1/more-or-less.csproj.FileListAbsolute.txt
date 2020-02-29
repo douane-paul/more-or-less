@@ -1,0 +1,11 @@
+C:\Users\Paul\source\repos\more-or-less\more-or-less\bin\Debug\netcoreapp3.1\more-or-less.exe
+C:\Users\Paul\source\repos\more-or-less\more-or-less\bin\Debug\netcoreapp3.1\more-or-less.deps.json
+C:\Users\Paul\source\repos\more-or-less\more-or-less\bin\Debug\netcoreapp3.1\more-or-less.runtimeconfig.json
+C:\Users\Paul\source\repos\more-or-less\more-or-less\bin\Debug\netcoreapp3.1\more-or-less.runtimeconfig.dev.json
+C:\Users\Paul\source\repos\more-or-less\more-or-less\bin\Debug\netcoreapp3.1\more-or-less.dll
+C:\Users\Paul\source\repos\more-or-less\more-or-less\bin\Debug\netcoreapp3.1\more-or-less.pdb
+C:\Users\Paul\source\repos\more-or-less\more-or-less\obj\Debug\netcoreapp3.1\more-or-less.csprojAssemblyReference.cache
+C:\Users\Paul\source\repos\more-or-less\more-or-less\obj\Debug\netcoreapp3.1\more-or-less.AssemblyInfoInputs.cache
+C:\Users\Paul\source\repos\more-or-less\more-or-less\obj\Debug\netcoreapp3.1\more-or-less.AssemblyInfo.cs
+C:\Users\Paul\source\repos\more-or-less\more-or-less\obj\Debug\netcoreapp3.1\more-or-less.dll
+C:\Users\Paul\source\repos\more-or-less\more-or-less\obj\Debug\netcoreapp3.1\more-or-less.pdb
