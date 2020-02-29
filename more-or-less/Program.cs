@@ -11,6 +11,7 @@ namespace more_or_less
             Console.Write("> ");
             string saisieIntervalle = Console.ReadLine();
             saisieIntervalle.ToLower();
+            int coup = 0;
             // Si l'utilisateur saisie exit alors on quitte le jeu
             if (saisieIntervalle == "exit")
             {
@@ -57,17 +58,20 @@ namespace more_or_less
                             {
                                 // Le nombre saisie est au dessus 
                                 Console.WriteLine("Pas trouvé! Le nombre aléatoire est plus petit...");
+                                coup++;
                             }
                             else if (numberSaisie < numberGenerate)
                             {
                                 // Le nombre saisie est en dessous
                                 Console.WriteLine("Pas trouvé! Le nombre aléatoire est plus grand...");
+                                coup++;
                             }
                             else
                             {
                                 // Le nombre saisie est le bon
                                 Console.WriteLine("Bien joué tu as trouvée le nombre etait bien : " + numberGenerate);
                                 nbTrouver = true;
+                                coup++;
                             }
                         }
                     }
@@ -86,6 +90,7 @@ namespace more_or_less
 
             // Il a trouver le nombre
             Console.WriteLine("Bye !");
+            Console.WriteLine("Vous avez trouvé le nombre en " + coup + " coups");
         }
     }
 }
